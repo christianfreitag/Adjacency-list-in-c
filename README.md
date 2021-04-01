@@ -1,10 +1,10 @@
 # ADJACENCY LIST IN C -  GRAPH
 
-* INFO:
+**INFO**:
   
   It's a code to create graph using adjecency list and do some operations:
 
-* Operations:
+**Operations:**
  - Insert(vertice, arest)
  - Remove
  - Find smaller way
