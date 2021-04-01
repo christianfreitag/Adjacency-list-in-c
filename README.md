@@ -1,7 +1,8 @@
 # ADJACENCY LIST IN C -  GRAPH
 
-* INFO
- It's a code to create graph using adjecency list and do some operations:
+* INFO:
+  
+  It's a code to create graph using adjecency list and do some operations:
 
 * Operations:
  - Insert(vertice, arest)
